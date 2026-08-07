@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-07T05:48:30.929Z",
+  "updated_at": "2026-08-07T05:50:04.073Z",
   "records": [
     {
       "groupId": "grp_xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
@@ -26,6 +26,22 @@
         {
           "text": "GG",
           "color": "#F9FB2B",
+          "priority": 100,
+          "category": "group",
+          "animated": false,
+          "animation": "",
+          "rainbow": false
+        }
+      ]
+    },
+    {
+      "groupId": "grp_c93a1138-0b71-438f-9364-4048db442b4d",
+      "groupName": "Elixr VRTool",
+      "active": true,
+      "tags": [
+        {
+          "text": "🧪",
+          "color": "#A855F7",
           "priority": 100,
           "category": "group",
           "animated": false,
