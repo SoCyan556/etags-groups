@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-07T04:48:00.000Z",
+  "updated_at": "2026-08-07T05:48:30.929Z",
   "records": [
     {
       "groupId": "grp_xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
@@ -10,6 +10,22 @@
         {
           "text": "Example Group Tag",
           "color": "#A855F7",
+          "priority": 100,
+          "category": "group",
+          "animated": false,
+          "animation": "",
+          "rainbow": false
+        }
+      ]
+    },
+    {
+      "groupId": "grp_f5bfe6c5-cbb0-4546-bbcf-42ee3809d228",
+      "groupName": "The Golden Gator",
+      "active": true,
+      "tags": [
+        {
+          "text": "GG",
+          "color": "#F9FB2B",
           "priority": 100,
           "category": "group",
           "animated": false,
