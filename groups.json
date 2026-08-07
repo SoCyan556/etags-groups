@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-07T05:50:04.073Z",
+  "updated_at": "2026-08-07T05:52:49.809Z",
   "records": [
     {
       "groupId": "grp_xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
@@ -24,7 +24,7 @@
       "active": true,
       "tags": [
         {
-          "text": "GG",
+          "text": "GG🐊",
           "color": "#F9FB2B",
           "priority": 100,
           "category": "group",
