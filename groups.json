@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-07T05:52:49.809Z",
+  "updated_at": "2026-08-08T03:20:24.845Z",
   "records": [
     {
       "groupId": "grp_xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
@@ -42,6 +42,22 @@
         {
           "text": "🧪",
           "color": "#A855F7",
+          "priority": 100,
+          "category": "group",
+          "animated": false,
+          "animation": "",
+          "rainbow": false
+        }
+      ]
+    },
+    {
+      "groupId": "grp_537779b0-dc06-4eaf-93c7-498939a7f7aa",
+      "groupName": "coffin",
+      "active": true,
+      "tags": [
+        {
+          "text": "Malicious",
+          "color": "#FF0000",
           "priority": 100,
           "category": "group",
           "animated": false,
