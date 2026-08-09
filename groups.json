@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-09T01:24:22.834Z",
+  "updated_at": "2026-08-09T01:25:06.033Z",
   "records": [
     {
       "groupId": "grp_xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
@@ -74,6 +74,22 @@
         {
           "text": "Nyup Client",
           "color": "#484848",
+          "priority": 100,
+          "category": "group",
+          "animated": false,
+          "animation": "",
+          "rainbow": false
+        }
+      ]
+    },
+    {
+      "groupId": "grp_ed8fbb96-9ff5-4a3f-be5a-4928137e5e5e",
+      "groupName": "Water drinkers",
+      "active": true,
+      "tags": [
+        {
+          "text": "Water Client",
+          "color": "#00A4FF",
           "priority": 100,
           "category": "group",
           "animated": false,
