@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-08T03:20:24.845Z",
+  "updated_at": "2026-08-09T01:24:22.834Z",
   "records": [
     {
       "groupId": "grp_xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
@@ -58,6 +58,22 @@
         {
           "text": "Malicious",
           "color": "#FF0000",
+          "priority": 100,
+          "category": "group",
+          "animated": false,
+          "animation": "",
+          "rainbow": false
+        }
+      ]
+    },
+    {
+      "groupId": "grp_284f946f-59ea-4d49-a3d7-921fef031255",
+      "groupName": "Nyup",
+      "active": true,
+      "tags": [
+        {
+          "text": "Nyup Client",
+          "color": "#484848",
           "priority": 100,
           "category": "group",
           "animated": false,
