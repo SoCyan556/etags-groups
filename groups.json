@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-12T03:35:12.517Z",
+  "updated_at": "2026-08-12T03:36:41.773Z",
   "records": [
     {
       "groupId": "grp_xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
@@ -104,13 +104,13 @@
       "active": true,
       "tags": [
         {
-          "text": "Vibe coders",
-          "color": "#39EB1A",
+          "text": "I Flex Vibe Code",
+          "color": "#A855F7",
           "priority": 100,
           "category": "group",
           "animated": false,
           "animation": "",
-          "rainbow": true
+          "rainbow": false
         }
       ]
     }
