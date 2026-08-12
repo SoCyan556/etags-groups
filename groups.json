@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-09T01:25:06.033Z",
+  "updated_at": "2026-08-12T03:34:45.325Z",
   "records": [
     {
       "groupId": "grp_xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
@@ -95,6 +95,22 @@
           "animated": false,
           "animation": "",
           "rainbow": false
+        }
+      ]
+    },
+    {
+      "groupId": "grp_32c35b13-ee3f-4555-81cf-e027d4401918",
+      "groupName": "Project Iris",
+      "active": true,
+      "tags": [
+        {
+          "text": "Vibe coder",
+          "color": "#39EB1A",
+          "priority": 100,
+          "category": "group",
+          "animated": false,
+          "animation": "",
+          "rainbow": true
         }
       ]
     }
