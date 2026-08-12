@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-12T03:34:45.325Z",
+  "updated_at": "2026-08-12T03:35:12.517Z",
   "records": [
     {
       "groupId": "grp_xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
@@ -104,7 +104,7 @@
       "active": true,
       "tags": [
         {
-          "text": "Vibe coder",
+          "text": "Vibe coders",
           "color": "#39EB1A",
           "priority": 100,
           "category": "group",
