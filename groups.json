@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-31T04:41:14.629Z",
+  "updated_at": "2026-08-31T04:41:48.257Z",
   "records": [
     {
       "groupId": "grp_xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
@@ -170,6 +170,22 @@
         {
           "text": "Malicious",
           "color": "#FB2B2B",
+          "priority": 100,
+          "category": "group",
+          "animated": false,
+          "animation": "",
+          "rainbow": false
+        }
+      ]
+    },
+    {
+      "groupId": "grp_a37e0ca1-16fb-4bc5-9ecf-c2a09cd83245",
+      "groupName": "Water",
+      "active": true,
+      "tags": [
+        {
+          "text": "Hydrated",
+          "color": "#2BFBDA",
           "priority": 100,
           "category": "group",
           "animated": false,
