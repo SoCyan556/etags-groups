@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-12T03:36:41.773Z",
+  "updated_at": "2026-08-31T04:40:29.809Z",
   "records": [
     {
       "groupId": "grp_xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
@@ -106,6 +106,22 @@
         {
           "text": "I Flex Vibe Code",
           "color": "#A855F7",
+          "priority": 100,
+          "category": "group",
+          "animated": false,
+          "animation": "",
+          "rainbow": false
+        }
+      ]
+    },
+    {
+      "groupId": "grp_d3ccd061-68eb-4e91-9683-d9e1ca690cae",
+      "groupName": "OFF",
+      "active": true,
+      "tags": [
+        {
+          "text": "Malicious",
+          "color": "#FB2B2B",
           "priority": 100,
           "category": "group",
           "animated": false,
