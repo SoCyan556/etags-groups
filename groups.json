@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-31T04:41:00.227Z",
+  "updated_at": "2026-08-31T04:41:14.629Z",
   "records": [
     {
       "groupId": "grp_xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
@@ -148,6 +148,22 @@
     },
     {
       "groupId": "grp_55070de7-ca90-453d-ad80-15316a37af42",
+      "groupName": "The Ministry",
+      "active": true,
+      "tags": [
+        {
+          "text": "Malicious",
+          "color": "#FB2B2B",
+          "priority": 100,
+          "category": "group",
+          "animated": false,
+          "animation": "",
+          "rainbow": false
+        }
+      ]
+    },
+    {
+      "groupId": "grp_c429c4bd-d41e-4fd3-8a69-485ce0e463ce",
       "groupName": "The Ministry",
       "active": true,
       "tags": [
