@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-31T18:55:54.300Z",
+  "updated_at": "2026-09-06T05:17:09.612Z",
   "records": [
     {
       "groupId": "grp_xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
@@ -202,6 +202,22 @@
         {
           "text": "Sus Group",
           "color": "#FB2B2B",
+          "priority": 100,
+          "category": "group",
+          "animated": false,
+          "animation": "",
+          "rainbow": false
+        }
+      ]
+    },
+    {
+      "groupId": "grp_c2d31009-1a65-497b-b228-546646805fbb",
+      "groupName": "Graveyard",
+      "active": true,
+      "tags": [
+        {
+          "text": "Grave",
+          "color": "#A855F7",
           "priority": 100,
           "category": "group",
           "animated": false,
