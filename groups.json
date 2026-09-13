@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-13T03:17:29.063Z",
+  "updated_at": "2026-09-13T03:17:49.631Z",
   "records": [
     {
       "groupId": "grp_xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
@@ -266,6 +266,22 @@
         {
           "text": "Parlor",
           "color": "#393939",
+          "priority": 100,
+          "category": "group",
+          "animated": false,
+          "animation": "",
+          "rainbow": false
+        }
+      ]
+    },
+    {
+      "groupId": "grp_1d7cf2ac-f205-491f-beb7-31fe1d212b8d",
+      "groupName": "Private Demonized",
+      "active": true,
+      "tags": [
+        {
+          "text": "Crasher",
+          "color": "#FF0000",
           "priority": 100,
           "category": "group",
           "animated": false,
