@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-13T04:15:11.345Z",
+  "updated_at": "2026-09-13T04:15:51.493Z",
   "records": [
     {
       "groupId": "grp_xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
@@ -325,6 +325,22 @@
     {
       "groupId": "grp_b9ce0239-273f-415f-a33a-c5772d54954a",
       "groupName": "Phantom Troupe",
+      "active": true,
+      "tags": [
+        {
+          "text": "Sus Group",
+          "color": "#A855F7",
+          "priority": 100,
+          "category": "group",
+          "animated": false,
+          "animation": "",
+          "rainbow": false
+        }
+      ]
+    },
+    {
+      "groupId": "grp_e3375093-aac7-488d-b245-fa70e1a817f8",
+      "groupName": "303 Public",
       "active": true,
       "tags": [
         {
