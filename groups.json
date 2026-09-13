@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-12T23:51:52.569Z",
+  "updated_at": "2026-09-13T03:17:29.063Z",
   "records": [
     {
       "groupId": "grp_xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
@@ -244,6 +244,22 @@
     },
     {
       "groupId": "grp_28d98687-1b56-4620-9f2f-d591d085a215",
+      "groupName": "Funeral Parlor",
+      "active": true,
+      "tags": [
+        {
+          "text": "Parlor",
+          "color": "#393939",
+          "priority": 100,
+          "category": "group",
+          "animated": false,
+          "animation": "",
+          "rainbow": false
+        }
+      ]
+    },
+    {
+      "groupId": "grp_3a50a0a6-551e-4fe1-aafc-8321bb91425b",
       "groupName": "Funeral Parlor",
       "active": true,
       "tags": [
