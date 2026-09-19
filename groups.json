@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-19T09:28:44.043Z",
+  "updated_at": "2026-09-19T09:29:07.615Z",
   "records": [
     {
       "groupId": "grp_xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
@@ -362,6 +362,22 @@
         {
           "text": "Ban Evader",
           "color": "#3A2BFB",
+          "priority": 100,
+          "category": "group",
+          "animated": false,
+          "animation": "",
+          "rainbow": false
+        }
+      ]
+    },
+    {
+      "groupId": "grp_c6bb75c1-670c-4582-b6fd-b3b99957421c",
+      "groupName": "Caos 1900",
+      "active": true,
+      "tags": [
+        {
+          "text": "Caos",
+          "color": "#FB2B80",
           "priority": 100,
           "category": "group",
           "animated": false,
