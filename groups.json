@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-22T02:41:14.419Z",
+  "updated_at": "2026-09-22T03:11:19.682Z",
   "records": [
     {
       "groupId": "grp_xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
@@ -405,6 +405,22 @@
     {
       "groupId": "grp_3329a798-5342-4532-89d7-baecbdf1e131",
       "groupName": "KVRSED CARTEL",
+      "active": true,
+      "tags": [
+        {
+          "text": "Malicious GRP",
+          "color": "#FB2B2B",
+          "priority": 100,
+          "category": "group",
+          "animated": false,
+          "animation": "",
+          "rainbow": false
+        }
+      ]
+    },
+    {
+      "groupId": "grp_6dd18e93-a9f5-49bd-9f00-de8e4aa5728b",
+      "groupName": "Polite Society",
       "active": true,
       "tags": [
         {
