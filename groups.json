@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-22T02:40:31.625Z",
+  "updated_at": "2026-09-22T02:41:14.419Z",
   "records": [
     {
       "groupId": "grp_xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
@@ -393,6 +393,22 @@
       "tags": [
         {
           "text": "OG Ripper",
+          "color": "#FB2B2B",
+          "priority": 100,
+          "category": "group",
+          "animated": false,
+          "animation": "",
+          "rainbow": false
+        }
+      ]
+    },
+    {
+      "groupId": "grp_3329a798-5342-4532-89d7-baecbdf1e131",
+      "groupName": "KVRSED CARTEL",
+      "active": true,
+      "tags": [
+        {
+          "text": "Malicious GRP",
           "color": "#FB2B2B",
           "priority": 100,
           "category": "group",
