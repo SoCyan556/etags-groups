@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-19T09:29:07.615Z",
+  "updated_at": "2026-09-22T02:40:31.625Z",
   "records": [
     {
       "groupId": "grp_xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
@@ -378,6 +378,22 @@
         {
           "text": "Caos",
           "color": "#FB2B80",
+          "priority": 100,
+          "category": "group",
+          "animated": false,
+          "animation": "",
+          "rainbow": false
+        }
+      ]
+    },
+    {
+      "groupId": "grp_4a7fde73-a23f-4a48-86de-1b7f9734ad73",
+      "groupName": "Untarnished",
+      "active": true,
+      "tags": [
+        {
+          "text": "OG Ripper",
+          "color": "#FB2B2B",
           "priority": 100,
           "category": "group",
           "animated": false,
